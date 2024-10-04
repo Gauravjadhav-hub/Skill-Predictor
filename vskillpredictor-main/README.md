@@ -1,2 +1,0 @@
-# vskillpredictor
-skill based prediction
